@@ -1,2 +1,3 @@
 # kajatester
 Windows 11
+"Git-2.42.0.2-64-bit"
